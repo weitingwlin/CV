@@ -27,6 +27,7 @@ National Taiwan University
 **1.** Lin, Wei-Ting (2016): Visual survey of insect communities on Iva frutescens in summer 2013 and 2014 on Sapelo Island, Georgia. Georgia Coastal Ecosystems LTER Project; University of Georgia; Long Term Ecological Research Network. [link](http://dx.doi.org/10.6073/pasta/fae8e94a866b71fad5e9122136b5b95e)
 
 ## Presentations
+* **W.Lin** Modeling the relationship between body size and the sensitivity to habitat loss in wild bee communities. (March 2017) TAMU Ecological Integration Symposium 2015 (Talk)
 * **W. Lin**, S. Pennings. Temporal shift in insect herbivore interaction: from concurrent competition to delayed facilitation. (August 2016) ESA 2017 (Talk)
 * **W. Lin**, S. Pennings. Temporal shift in insect herbivore interaction: from concurrent competition to delayed facilitation. (May 2016) Ecology and Evolution Student Symposium, University of Houston (Talk)
 * **W. Lin**, S. Pennings. Spatial Scales of Predator-Prey Interactions in Model and Experimental Ladybug-Aphid Systems. (November 2015) Entomology 2015: Synergy in Science (Poster)
