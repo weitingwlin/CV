@@ -18,11 +18,11 @@ National Taiwan University
 
 ## Publications
 ### Peer reviewed papers ([Google scholar page](https://scholar.google.com/citations?hl=en&user=XXY-vVcAAAAJ&view_op=list_works&gmla=AJsN-F4PQC2S4e6LghJ_Y_7B_S6L16lq6tfF_RsWSYemzxaux4aqSEqtw9fuN27JK3e0YR8QFwh_QDj67CsoTB1S2rJm3xWrQIFPyCVKtLcWN9iY5OCL8hVTlsUfrK6Tg_TtDtXnfSbO))
-**2.** **Lin, W.**, Pennings, S. C. (in prep.) Scale-dependent predator-prey interaction in a ladybug-aphid system. [working on final draft, for submission to Ecology summer of 2016]
+**2.** **Lin, W.**, Pennings, S. C. (in review.) Scale-dependent predator-prey interaction in a ladybug-aphid system. 
 
 **1.** **W. Lin**, C. Hsieh, T. Miki. (2013) Difference in adaptive dispersal ability can promote species coexistence in fluctuating environments. PLoS ONE 8(2): e55218. doi:10.1371/journal.pone.0055218
 
-###Data set
+### Data set
 
 **1.** Lin, Wei-Ting (2016): Visual survey of insect communities on Iva frutescens in summer 2013 and 2014 on Sapelo Island, Georgia. Georgia Coastal Ecosystems LTER Project; University of Georgia; Long Term Ecological Research Network. [link](http://dx.doi.org/10.6073/pasta/fae8e94a866b71fad5e9122136b5b95e)
 
@@ -55,3 +55,4 @@ National Taiwan University
   + Matlab ([my gitbub repository](https://github.com/weitingwlin/matlabutility ); [my Matlab community profile](http://www.mathworks.com/matlabcentral/fileexchange/authors/my_fileexchange))
   + C-language (publication 1), 
   + R [my_github repository](https://github.com/weitingwlin/r-primers)
+  + python
